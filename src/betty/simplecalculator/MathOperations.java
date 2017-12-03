@@ -13,7 +13,7 @@ public class MathOperations {
 	}
 	
 	public int multiply(int a,int b) {
-		System.out.println("3rd operation commit");
+		System.out.println("3rd operation commit.");
 		return a*b;
 	}
 	
