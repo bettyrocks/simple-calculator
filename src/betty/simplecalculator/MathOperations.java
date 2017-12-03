@@ -16,5 +16,9 @@ public class MathOperations {
 		System.out.println("3rd operation commit.");
 		return a*b;
 	}
+	public int divide(int a,int b) {
+		System.out.println("4th operation commit.");
+		return a/b;
+	}
 	
 }
